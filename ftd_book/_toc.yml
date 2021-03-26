@@ -1,0 +1,21 @@
+# Table of contents
+# Learn more at https://jupyterbook.org/customize/toc.html
+- file: abstract
+- file: intro
+- file: neurodegeneration
+  sections:
+    - file: t_in_FTD
+    - file: neglected_cortices
+- file: temporal_variants
+  sections:
+    - file: diagnosis
+    - file: path_gen
+    - file: imaging
+- file: cogn_beh
+  sections:
+    - file: two_sides
+    - file: left
+    - file: right
+- file: conclusions
+- file: acknowledgements
+- file: references
