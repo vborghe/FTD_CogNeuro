@@ -2,12 +2,12 @@
 
 My teaching book
 
-## Usage
+###  Usage
 
 ### Building the book
 
 ### Hosting the book
 
-## Contributors
+###  Contributors
 
-## Credits
+###  Credits
