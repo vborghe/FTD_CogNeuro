@@ -1,4 +1,4 @@
-# FTD_CogNeuro
+# Frontotemporal dementia and cognitive neuroscience
 
 My teaching book
 
