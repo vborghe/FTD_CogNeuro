@@ -1,3 +1,6 @@
+Conclusions
+=======================
+
 In accordance with the pathological, neuroimaging, cognitive, and behavioral data on temporal FTD we here reviewed, converging lines of evidence illustrate the extreme structural and functional heterogeneity of the temporal lobe. Cellular, neurochemical, and pathological markers, allows isolation of at least seven distinct regions with the ATL (Ding et al., 2009). Moreover, similar parcellations have been proposed based on structural (Papinutto et al., 2016) and functional (Pascual et al., 2015) connectivity patterns. 
 The most widely adopted theoretical framework, the hub-and-spoke model, 
 Most of widely adopted framework = bilateral semantic systems but important specialization along gradient (Lambon-Ralph)

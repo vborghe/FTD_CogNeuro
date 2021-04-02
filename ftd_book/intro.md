@@ -1,8 +1,8 @@
 Introduction
 =======================
 
-I will use this to teach
+I would like to use this jupyterbook as living teaching material. 
 
 ```{warning}
-This is a work in progress.
+This is a work in progress. Please contact me if interested in future updates.
 ```
