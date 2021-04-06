@@ -9,7 +9,9 @@ title                       : FTD & Language  # The title of the book. Will be p
 author                      : valentina borghesani # The author of the book
 copyright                   : "2021"  # Copyright year to be placed in the footer
 logo                        : FTD.png  # A path to the book logo
-
+bibtex_bibfiles:
+   - references.bib
+   
 # Parse and render settings
 parse:
   myst_extended_syntax: true
